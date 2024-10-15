@@ -1,6 +1,6 @@
 # PythonScripts Udvikling
 
-Velkommen til PythonScripts Udvikling! Dette projekt indeholder forskellige Python-moduler, som kan bruges til udvikling og læring.
+Velkommen til mine python scripts, som hjælper mig i hverdagen så jeg ikke skal sidde og skrive de samme ting igen og igen.
 
 ## Indhold
 
